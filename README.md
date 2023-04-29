@@ -57,27 +57,27 @@ endmodule
 
 ## Output:
 ## Logic gates:
-FULL SUBTRACTOR:
+# FULL SUBTRACTOR:
 ![full subtractor](https://user-images.githubusercontent.com/120194155/235298698-ef98cf58-88f9-4fbf-ae4a-da76f96f17d9.png)
-HALF SUBTRACTOR:
+# HALF SUBTRACTOR:
 ![half subtractor](https://user-images.githubusercontent.com/120194155/235298711-fdab7374-c9da-45ba-bb81-2c1efdd67354.png)
 
 ## Truthtable
-FULL SUBTRACTOR:
-![full subtractor](https://user-images.githubusercontent.com/120194155/235298922-10f2a300-1124-4862-9721-b3be36f2c412.png)
-HALF SUBTRACTOR:
+# FULL SUBTRACTOR:
+![full sub truthtable](https://user-images.githubusercontent.com/120194155/235299003-f556801e-9005-4b08-b877-404c85a46bba.png)
+# HALF SUBTRACTOR:
 ![half sub truth table](https://user-images.githubusercontent.com/120194155/235298749-f728792e-18a4-4a35-86fd-42cae187453f.png)
 
 ##  RTL realization
-FULL SUBTRACTOR:
+# FULL SUBTRACTOR:
 ![full sub RTL](https://user-images.githubusercontent.com/120194155/235298821-0041eeb0-ca0f-49dd-aae5-e8f9f2836c91.png)
-HALF SUBTRACTOR:
+# HALF SUBTRACTOR:
 ![half sub RTL](https://user-images.githubusercontent.com/120194155/235298831-36c6246e-3d77-4d57-a490-0ef321f7a7a1.png)
 
 ## Timing diagram 
-FULL SUBTRACTOR:
+# FULL SUBTRACTOR:
 ![full sub dia](https://user-images.githubusercontent.com/120194155/235298943-82da7ae4-f2ab-4fe2-bc9f-c0603a60ff5e.png)
-HALF SUBTRACTOR:
+# HALF SUBTRACTOR:
 ![half sub dia](https://user-images.githubusercontent.com/120194155/235298858-a423d026-a863-4262-89a5-f645a58fe3e5.png)
 
 
